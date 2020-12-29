@@ -1,0 +1,29 @@
+import React, { PureComponent } from 'react';
+import './index.css';
+
+class ClassName extends PureComponent {
+  constructor(props) {
+    super(props);
+    this.state = {
+
+    };
+  }
+
+  componentDidMount() {
+
+  }
+
+  render() {
+    return (
+      <div className={"class-name"}>
+          
+      </div>
+    );
+  }
+}
+
+ClassName.propTypes = {
+
+};
+
+export default ClassName;

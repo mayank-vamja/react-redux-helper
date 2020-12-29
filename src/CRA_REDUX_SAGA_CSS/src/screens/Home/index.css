@@ -1,0 +1,33 @@
+.home {
+  margin: 10px;
+}
+.home .heading {
+  color: #515151;
+  text-align: center;
+}
+.home .quote {
+  background-color: #fffdd0;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 20px;
+}
+.home .quote p {
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family: sans-serif;
+}
+.home .quote button {
+  background-color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  color: #777aa0;
+}
+.home .quote button:hover {
+  background-color: #ddd;
+  color: #333990;
+}
+.home .quote button:focus {
+  outline: none;
+}

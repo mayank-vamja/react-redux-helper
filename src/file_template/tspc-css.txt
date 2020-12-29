@@ -1,0 +1,33 @@
+import React, { PureComponent } from 'react';
+import './index.css';
+
+export interface IClassNamedProps {
+
+}
+
+export interface IClassNamedState {
+
+}
+
+class ClassName extends PureComponent<IClassNamedProps, IClassNamedState> {
+  constructor(props) {
+    super(props);
+    this.state = {
+
+    };
+  }
+
+  componentDidMount() {
+
+  }
+
+  render() {
+    return (
+      <div className={"class-name"}>
+          
+      </div>
+    );
+  }
+}
+
+export default ClassName;

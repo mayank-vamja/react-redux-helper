@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"module": "esnext",
+		"target": "esnext",
+		"checkJs": false,  /* Typecheck .js files. */
+		"lib": [
+			"esnext"
+		]
+	},
+	"exclude": [
+		"node_modules"
+	]
+}
