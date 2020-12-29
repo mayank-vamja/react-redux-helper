@@ -2,7 +2,7 @@
 
 React Redux Helper is extension for react.js developers. This extension is really helpfull for enterprise level react projects. It can help you set up new react projects quickly without much hustle.
 
-> **_ Note : Yet not fully tested. You may face problems in v1.0 _**
+> **_ Note : :simple_smile: Yet not fully tested. You may face problems in v1.0 _**
 
 ## Features
 
