@@ -12,7 +12,7 @@ React Redux Helper is extension for react.js developers. This extension is reall
 
 2. Create React App
 
-![create-react-app]\(https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/cra.gif)
+![create-react-app](https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/cra.gif)
 
 3. Context meu options in your workspace file-explorer
 
