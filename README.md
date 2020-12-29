@@ -41,8 +41,6 @@ React Redux Helper is extension for react.js developers. This extension is reall
 
 ![Convert](https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/cra_clean_saga.gif)
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
 ## Requirements
 
 - Node.JS (v14.x and higher recommended)
