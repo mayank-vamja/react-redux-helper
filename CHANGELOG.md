@@ -1,5 +1,5 @@
 # Change Log
 
-### react-redux-helper v1.0
+### react-redux-helper v0.0.1
 
-- Initial release
+- Initial release (not tested)
