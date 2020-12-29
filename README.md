@@ -2,17 +2,17 @@
 
 React Redux Helper is extension for react.js developers. This extension is really helpfull for enterprise level react projects. It can help you set up new react projects quickly without much hustle.
 
-> **_ Note : :simple_smile: Yet not fully tested. You may face problems in v0.0.1 _**
+> **_ Note : 🙂 Yet not fully tested. You may face problems in v0.0.1 _**
 
 ## Features
 
 1. Usefull Sidebar with lots of actions.
 
-\!\[Sidebar\]\(images/sidebar.png\)
+![Sidebar](https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/sidebar.png)
 
 2. Create React App
 
-\!\[create-react-app\]\(images/cra.gif\)
+![create-react-app]\(https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/cra.gif)
 
 3. Context meu options in your workspace file-explorer
 
@@ -29,17 +29,17 @@ React Redux Helper is extension for react.js developers. This extension is reall
   - Reducer file will be added in your reducers folder
   - will be linked to your store automatically.
 
-\!\[Context Menu\]\(images/context_menu.png\)
+![Context Menu](https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/context_menu.gif)
 
 4. Cleanning your react app created with create-react-app
 
 - Remove bloatware files...
 
-\!\[Clean\]\(images/cra_clean.gif\)
+![Clean](https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/cra_clean.gif)
 
 5. Convert your react app into react-redux with saga, thunk middleware options
 
-\!\[Convert\]\(images/cra_clean_saga.gif\)
+![Convert](https://raw.githubusercontent.com/mayank-vamja/react-redux-helper/master/images/cra_clean_saga.gif)
 
 > Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 

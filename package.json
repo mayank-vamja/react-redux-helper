@@ -7,6 +7,9 @@
     "vscode": "^1.52.0"
   },
   "publisher": "MayankVamja",
+  "repository": {
+    "url": "https://github.com/mayank-vamja/react-redux-helper"
+  },
   "icon": "resources/icon.png",
   "categories": [
     "Programming Languages", 
